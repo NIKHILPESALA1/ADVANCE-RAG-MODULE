@@ -125,8 +125,8 @@ You will see:
 Try:
 
 ```
-Who is Nikhil?
-Difference between VIT Chennai and VIT Vellore
+Who is PersosnName?
+Difference between this and that
 What does the article say about X?
 ```
 
@@ -150,6 +150,7 @@ Hybrid retrieval should return better results than vector-only RAG.
 
 * GitHub: [https://github.com/NIKHILPESALA1](https://github.com/NIKHILPESALA1)
 * LinkedIn: [https://www.linkedin.com/in/nikhilpesala/](https://www.linkedin.com/in/nikhilpesala/)
+
 
 
 
