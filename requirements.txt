@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+chromadb
+sentence-transformers
+transformers
+tiktoken
+pydantic
+python-dotenv
+requests
+numpy
+pandas
